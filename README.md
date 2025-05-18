@@ -3,7 +3,7 @@
 ### About me:
 
 I'm a master's student at AGH University of Science and Technology in Cracow, currently specializing in game development and Python.
-I'm also working on an ongoing project — a roguelike-style game called [Froglike](https://github.com/Varesismov/froglike) 🐸, currently in early development.
+I'm also working on my very own game project — a roguelike-style game called [Froglike](https://github.com/Varesismov/froglike) 🐸, currently in early development.
 
 #### Contanct:
 - Mail: kstajniak42@gmail.com
