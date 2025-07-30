@@ -9,7 +9,6 @@ I'm a master's student at AGH University of Science and Technology in Cracow, cu
 
 ### Language:
 <p align="left">
-   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg" height="40" alt="Angular" />
      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="JS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
