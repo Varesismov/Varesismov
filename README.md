@@ -2,7 +2,7 @@
 
 ### About me:
 
-I'm a master's student at AGH University of Science and Technology in Cracow, currently working as a Web Developer in Angular framework
+I'm a master's student at AGH University of Science and Technology in Cracow, currently working as a Web Developer in Angular
 #### Contanct:
 - Mail: kstajniak42@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/krzysztof-stajniak-a1589922b/)
