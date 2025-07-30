@@ -2,9 +2,7 @@
 
 ### About me:
 
-I'm a master's student at AGH University of Science and Technology in Cracow, currently specializing in game development and Python.
-I'm also working on my very own game project — a roguelike-style game called [Froglike](https://github.com/Varesismov/froglike) 🐸, currently in early development.
-
+I'm a master's student at AGH University of Science and Technology in Cracow, currently working as a Web Developer in Angular framework
 #### Contanct:
 - Mail: kstajniak42@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/krzysztof-stajniak-a1589922b/)
@@ -12,15 +10,18 @@ I'm also working on my very own game project — a roguelike-style game called [
 ### Language:
 <p align="left">
    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg" height="40" alt="Angular" />
+     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="JS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  
+
 </p>
 
-### Currently learning:
+### Currently working with:
 <p>
-   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg" height="40" alt="Angular" />
+      <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg" height="40" alt="Angular" />
+
 
 </p>
 
