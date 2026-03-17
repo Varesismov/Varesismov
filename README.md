@@ -4,7 +4,7 @@
 
 I'm a master's student at AGH University of Science and Technology in Cracow, currently working as a Software Engineer
 #### Contanct:
-- Mail: kstajniak42@gmail.com
+- Mail: kstajniak43@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/krzysztof-stajniak-a1589922b/)
 
 <!--### Language:
