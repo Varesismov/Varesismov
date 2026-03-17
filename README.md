@@ -2,12 +2,12 @@
 
 ### About me:
 
-I'm a master's student at AGH University of Science and Technology in Cracow, currently working as a Web Developer in Angular
+I'm a master's student at AGH University of Science and Technology in Cracow, currently working as a Software Engineer
 #### Contanct:
 - Mail: kstajniak42@gmail.com
 - [My LinkedIn](https://www.linkedin.com/in/krzysztof-stajniak-a1589922b/)
 
-### Language:
+<!--### Language:
 <p align="left">
      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg" height="40" alt="JS" />
@@ -33,6 +33,6 @@ I'm a master's student at AGH University of Science and Technology in Cracow, cu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 
 
-</p>
+</p> -->
 
 
